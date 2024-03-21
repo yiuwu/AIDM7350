@@ -1,0 +1,25 @@
+h1 {
+    color:#0084ff;
+    font-size: 30px;
+}
+
+h1:hover{
+    color:blueviolet;
+    background: pink;
+}
+
+p.standout {
+    color: blue;
+}
+
+.img1:hover{
+    filter: blur(10px);
+}
+
+.img2:hover{
+    filter:invert();
+}
+
+.img3:hover{
+    filter:grayscale(100%);
+}
